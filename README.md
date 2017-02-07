@@ -6,5 +6,3 @@ My favorite pizza toppings are:
 * Cheese
 * More Cheese
 * Even More Cheese!
-* MMMMMOREEE CHEESE!
-* ALLL THE CHEESE!
